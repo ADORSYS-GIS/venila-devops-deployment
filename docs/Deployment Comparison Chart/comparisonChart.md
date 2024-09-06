@@ -1,3 +1,5 @@
+Sure! Here’s a cost comparison chart outlining the expenses associated with deploying applications using Docker, Kubernetes, Bare Metal VMs, and AWS Containers.
+
 # Cost Comparison Chart
 
 This chart outlines the costs associated with deploying applications using Docker, Kubernetes, Bare Metal VMs, and AWS Containers.
