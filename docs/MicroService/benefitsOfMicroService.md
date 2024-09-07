@@ -59,9 +59,7 @@
 - **Description**: Amazon transitioned to a microservices architecture to handle its massive scale and diverse functionality. Each part of their system, such as search, recommendations, and order processing, operates as separate microservices.
 - **Impact**: Improved scalability, faster deployment cycles, and enhanced fault tolerance.
 
-**2.2 Netflix**
-
-**2.3 Spotify**
+**2.2 Spotify**
 
 - **Description**: Spotify uses microservices to manage its music streaming service. Each microservice handles different aspects like user preferences, music catalog, and playback.
 - **Impact**: Improved agility, faster feature releases, and better user engagement.
